@@ -398,7 +398,7 @@ else
 
 [دانلود نمونه کد](https://github.com/podiumir/samples/raw/master/plan.zip)
 
-همینطور م‌توانید این مستند را در GitHub ویرایش نمایید.
+همینطور می‌توانید این مستند را در GitHub ویرایش نمایید.
 
 <div class="box-end">
 </div>
