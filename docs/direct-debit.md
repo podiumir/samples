@@ -7,6 +7,47 @@
 - [دانلود نمونه کد‌ها](#%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-%d9%86%d9%85%d9%88%d9%86%d9%87-%da%a9%d8%af%e2%80%8c%d9%87%d8%a7)
 
 
+## نحوه‌ي درست کردن Tab
+
+
+می‌تونیم تب‌ باکس‌های متعددی داشته باشیم.
+
+<div class="tab-start">
+</div>
+
+
+# [JavaScript](#tab/javascript)
+
+
+``` javascript
+
+let a = parseInt("10");
+
+
+```
+<div class="swaggerLink">http://docs.pod.land/v1.0.8.0/Developer/User/152/AccessToken</div>
+
+# [C#](#tab/csharp)
+
+``` csharp
+
+int a = int.Parse("10");
+
+
+```
+<div class="swaggerLink">http://swagger-tab2-csharp.com</div>
+
+
+
+
+<div class="tab-end">
+</div>
+
+
+<div class="box-end">
+</div>
+
+
 ## مقدمه
 
 در صورتی که در برنامه خود در نظر دارید که کاربران را عضو سرویسی نمایید و بتوانید از کیف پول کاربران خود در ازای عضویت در بازه‌های مختلف برداشت نمایید، می توانید از قابلیت **مجوز برداشت مستقیم** استفاده نمایید.
@@ -398,7 +439,6 @@ else
 
 [دانلود نمونه کد](https://github.com/podiumir/samples/raw/master/plan.zip)
 
-همینطور می‌توانید این مستند را در GitHub ویرایش نمایید.
 
 <div class="box-end">
 </div>
