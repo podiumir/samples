@@ -1,51 +1,8 @@
-
-- [نحوه‌ي درست کردن Tab](#%نحوه‌ی-درست-کردن-تب)
 - [مقدمه](#%مقدمه)
 - [تعریف قانون برداشت](#%d8%aa%d8%b9%d8%b1%db%8c%d9%81-%d9%82%d8%a7%d9%86%d9%88%d9%86-%d8%a8%d8%b1%d8%af%d8%a7%d8%b4%d8%aa)
 - [دریافت مجوز از کاربر](#%d8%af%d8%b1%db%8c%d8%a7%d9%81%d8%aa-%d9%85%d8%ac%d9%88%d8%b2-%d8%a7%d8%b2-%da%a9%d8%a7%d8%b1%d8%a8%d8%b1)
 - [تمدید عضویت](#%d8%aa%d9%85%d8%af%db%8c%d8%af-%d8%b9%d8%b6%d9%88%db%8c%d8%aa)
 - [دانلود نمونه کد‌ها](#%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-%d9%86%d9%85%d9%88%d9%86%d9%87-%da%a9%d8%af%e2%80%8c%d9%87%d8%a7)
-
-
-## نحوه‌ي درست کردن Tab
-
-
-می‌تونیم تب‌ باکس‌های متعددی داشته باشیم.
-
-<div class="tab-start">
-</div>
-
-
-# [JavaScript](#tab/javascript)
-
-
-``` javascript
-
-let a = parseInt("10");
-
-
-```
-<div class="swaggerLink">http://docs.pod.land/v1.0.8.0/Developer/User/152/AccessToken</div>
-
-# [C#](#tab/csharp)
-
-``` csharp
-
-int a = int.Parse("10");
-
-
-```
-<div class="swaggerLink">http://swagger-tab2-csharp.com</div>
-
-
-
-
-<div class="tab-end">
-</div>
-
-
-<div class="box-end">
-</div>
 
 
 ## مقدمه
@@ -173,7 +130,7 @@ namespace FanapPlus.Torange.Samples.Web.Clients.Pod
 
 
 ```
-<div class="swaggerLink">http://sandbox.pod.land:8080/apidocs/swagger-ui.html?srv=/nzh/biz/addWithdrawRulePlan</div>
+<div class="swaggerLink">http://sandbox.pod.land:8080/apidocs/swagger-ui.html?srv=/nzh/biz/withdrawRuleList</div>
 
 <div class="tab-end">
 </div>
